@@ -5,6 +5,7 @@
 
 ### Краткая информация о данных
 Основные данные: https://disk.yandex.ru/d/J2jVb_Ri9boW_Q
+
 Данные о курсах валют: https://disk.yandex.ru/d/4Nlt8zd-5EqgCA
 
 ### Этапы работы над проектом
