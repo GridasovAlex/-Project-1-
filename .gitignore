@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-/Project-1 Анализ вакансий на HeadHunter/data/dst-3.0_16_1_hh_database.csv
+Project-1 Анализ вакансий на HeadHunter/data/dst-3.0_16_1_hh_database.csv
 
 # C extensions
 *.so
